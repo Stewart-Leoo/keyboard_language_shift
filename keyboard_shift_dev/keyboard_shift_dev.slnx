@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="keyboard_shift_dev/keyboard_shift_dev.vcxproj" Id="0e559c3e-1e4c-44fe-87c3-cdf04b16ea76" />
+</Solution>
